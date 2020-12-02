@@ -11,3 +11,11 @@
 
 // logs
 *.log
+
+// python caches
+__pycache__
+*.swp
+*.pyc
+
+// vscode settings
+.vscode
