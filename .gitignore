@@ -1,0 +1,13 @@
+// debugging files
+*.su
+*.dbgconf
+
+// compiled binaries
+*.hex
+*.bin
+*.d
+*.crf
+*.o
+
+// logs
+*.log
